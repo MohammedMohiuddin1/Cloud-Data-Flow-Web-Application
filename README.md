@@ -4,6 +4,6 @@ I have intentionally excluded the actual code from this repository because it co
 
 To maintain security and adhere to best practices, all credentials are securely stored and kept private.  
 
-If you're interested in learning more about the project and how it works, please refer to the **Mohammed M CSS436 Program 4 Report** attached to this repository.  
+If you're interested in learning more about the project and how it works, please refer to the **Mohammed M CSS436 Program 4 Report** attached to this repository or email me at mmuzm786@gmail.com.  
 
 Thank you!  
